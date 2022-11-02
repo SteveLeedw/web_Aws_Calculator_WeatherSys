@@ -1,7 +1,12 @@
 # web_Aws_Calculator_WeatherSys
 
+This is simple calculator and Weather system.
+
+Weather check location by location there are East, West, central location and it shows living time weather states.
 
 ![1](https://user-images.githubusercontent.com/77987878/139021272-ada78a60-64cc-4950-89c5-8c84fa2b8bb5.PNG)
+
+Simple Calculator can calculate +, -, /, * operation.
 
 ![2](https://user-images.githubusercontent.com/77987878/139021493-24d597fc-a387-4a12-964d-2e28a2cde1b3.PNG)
 
